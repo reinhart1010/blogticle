@@ -1,4 +1,28 @@
-## Welcome to GitHub Pages
+# Blogticle
+## Example Blog
+
+Link ke www.google.com
+
+1. Daftar 1
+2. Daftar 2
+1. Daftar 3
+
++ Daftar 4
++ Daftar 5
++ Daftar 6
+
+**Bold**, __Bold__, *Italic*, _Italic_, ~~Strike~~
+
+`Monospace`
+
+```
+int main(){
+    printf("Hello, World!");
+    return 0;
+}
+```
+
+
 
 You can use the [editor on GitHub](https://github.com/reinhart1010/blogticle/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
